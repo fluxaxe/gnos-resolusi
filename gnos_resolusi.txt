@@ -2,3 +2,5 @@ gnos resolusi :
 - Berkembang secepat mungkin
 - Berkontribusi untuk banjarbaru dalam hal pemrograman
 - Memberikan workshop geratis untuk beginner di bjb
+- Membuat Website organisasi
+- Membuat podcast pemrograman
