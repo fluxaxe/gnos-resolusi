@@ -1,0 +1,8 @@
+gnos belajar :
+- laravel
+ * instal
+ * artisan
+ * dll
+- git & github
+- docker
+- security
