@@ -1,8 +1,9 @@
 gnos belajar :
-- laravel
- * instal
- * artisan
- * dll
+- PHP Framework
+ ^Laravel
+  * instal
+  * artisan
+  * dll
 - git & github
 - docker
 - security
