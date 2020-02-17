@@ -7,3 +7,4 @@ gnos belajar :
   * dll
 - git & github
 - docker
+- security
